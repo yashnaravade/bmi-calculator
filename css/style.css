@@ -1,0 +1,13 @@
+body{
+  background-color: #b3d9ff;
+  height:100vh;
+}
+
+.logo{
+  height:150px;
+}
+
+.title-container{
+  background-color:white;
+  padding:10px;
+}
